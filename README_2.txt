@@ -46,3 +46,6 @@ You can now acquire data. Once you have data move on to README3 for how to track
 NB A common problem is that the calibration file is not good enough quality and you cannot establish a good calibration. 
 Common reasons are a dropped frame on the camera or the test object moving too far beyond focus and not being tracked because 
 the test object was not correctly centred. I usually acquire 2 or 3 calibrations at a time to guard against this.
+
+Code in the folder LabViewCode/SubVI/RL (DAQmx_output_voltage_write.vi, DAQmx_output_voltage_initialise_timing.vi) was written by 
+Ren Chong Lim (see https://ora.ox.ac.uk/objects/uuid:2f18fdff-e876-4be6-8ac2-c8281a4a905a)
