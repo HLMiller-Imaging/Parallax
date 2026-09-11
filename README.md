@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/375725973.svg)](https://doi.org/10.5281/zenodo.22712983)
+
 # Parallax
 Code for extracting data from parallax microscopy images
 
